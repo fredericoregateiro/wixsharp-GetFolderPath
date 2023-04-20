@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTestGetFolderPath", "ConsoleAppTestGetFolderPath\ConsoleAppTestGetFolderPath.csproj", "{4B58D51B-8BC0-4252-90C5-1972054815ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppWixInstaller", "ConsoleAppWixInstaller\ConsoleAppWixInstaller.csproj", "{6F141F01-8CC2-41C7-AC43-0F800D30C753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B58D51B-8BC0-4252-90C5-1972054815ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B58D51B-8BC0-4252-90C5-1972054815ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B58D51B-8BC0-4252-90C5-1972054815ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B58D51B-8BC0-4252-90C5-1972054815ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F141F01-8CC2-41C7-AC43-0F800D30C753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F141F01-8CC2-41C7-AC43-0F800D30C753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F141F01-8CC2-41C7-AC43-0F800D30C753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F141F01-8CC2-41C7-AC43-0F800D30C753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1009AF98-4D1D-4342-B72E-F930FE4CA93D}
+	EndGlobalSection
+EndGlobal
