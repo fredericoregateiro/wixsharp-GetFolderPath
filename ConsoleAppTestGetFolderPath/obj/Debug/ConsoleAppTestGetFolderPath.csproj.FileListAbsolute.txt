@@ -1,8 +1,0 @@
-C:\Users\frede\source\repos\ConsoleAppTestGetFolderPath\ConsoleAppTestGetFolderPath\bin\Debug\ConsoleAppTestGetFolderPath.exe.config
-C:\Users\frede\source\repos\ConsoleAppTestGetFolderPath\ConsoleAppTestGetFolderPath\bin\Debug\ConsoleAppTestGetFolderPath.exe
-C:\Users\frede\source\repos\ConsoleAppTestGetFolderPath\ConsoleAppTestGetFolderPath\bin\Debug\ConsoleAppTestGetFolderPath.pdb
-C:\Users\frede\source\repos\ConsoleAppTestGetFolderPath\ConsoleAppTestGetFolderPath\obj\Debug\ConsoleAppTestGetFolderPath.csproj.AssemblyReference.cache
-C:\Users\frede\source\repos\ConsoleAppTestGetFolderPath\ConsoleAppTestGetFolderPath\obj\Debug\ConsoleAppTestGetFolderPath.csproj.SuggestedBindingRedirects.cache
-C:\Users\frede\source\repos\ConsoleAppTestGetFolderPath\ConsoleAppTestGetFolderPath\obj\Debug\ConsoleAppTestGetFolderPath.csproj.CoreCompileInputs.cache
-C:\Users\frede\source\repos\ConsoleAppTestGetFolderPath\ConsoleAppTestGetFolderPath\obj\Debug\ConsoleAppTestGetFolderPath.exe
-C:\Users\frede\source\repos\ConsoleAppTestGetFolderPath\ConsoleAppTestGetFolderPath\obj\Debug\ConsoleAppTestGetFolderPath.pdb
